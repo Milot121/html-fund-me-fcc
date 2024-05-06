@@ -1,0 +1,2 @@
+1. HTML / Javascript
+I used HTML and Javascript to make this minimalistic Fund Me where you can connect to metamask wallet, get the balance of accounts, fund any amount of ethereum you want and finally withdraw those funds.
